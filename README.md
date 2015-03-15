@@ -33,6 +33,14 @@ We are planning to implement following features
     done.
 -   Splitting translation units based on user-defined rules.
 
+Special points to consider
+--------------------------
+ -  Operators
+ -  Magic comments to control the tool's behaviour
+ -  Unusual use of header files
+ -  Macro definitions
+ -  extern "C"
+
 Links
 -----
 -   https://github.com/BentleyJOakes/PCX
